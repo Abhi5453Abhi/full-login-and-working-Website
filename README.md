@@ -3,6 +3,7 @@
 # A website developed using MEAN 
 
 A website developed for organising a blood donation camp in Chandigarh University.
+This website will serve for the annual blood donation camp in Chandigarh University.
 
 # how to use:
   before starting this you must have node.js installed on your Computuer.
